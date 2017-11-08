@@ -67,7 +67,7 @@
      <Compile Include="Assets\Scripts\TileHolder.cs" />
      <Compile Include="Assets\Scripts\Weapon.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/DaMonkeyBoi/Desktop/Project3-master/proj3TEST/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>C:/Users/DaMonkeyBoi/Desktop/KingOfTheCubes/proj3TEST/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
